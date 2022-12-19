@@ -72,35 +72,35 @@ Tugas [1]
 
 Tugas [2]
 
-#include <iostream>
-#include <iomanip>
- 
-using namespace std;
- 
-int main()
-{
-	cout<<"=========================================="<<endl;
-  cout << "         Muhhamad Ma'riefatulloh " << endl;
-  cout << "==========================================" << endl;
-  cout << endl;
- 
-  int matr[100][100];
-  int y, x, i, j;
- 
-  cout << "Input jumlah baris matriks: ";
-  cin >> y;
- 
-  cout << "Input jumlah kolom matriks: ";
-  cin >> x;
-  cout << endl;
- 
-  for(i = 0; i < y ; i++){
-    for(j = 0; j < x; j++){
-      cout << "Baris " <<i+1<<", kolom "<<j+1<< " = ";
-      cin >> matr[i][j];
-    }
-    cout << endl;
-  }
+	#include <iostream>
+	#include <iomanip>
+
+	using namespace std;
+
+	int main()
+	{
+		cout<<"=========================================="<<endl;
+	  cout << "         Muhhamad Ma'riefatulloh " << endl;
+	  cout << "==========================================" << endl;
+	  cout << endl;
+
+	  int matr[100][100];
+	  int y, x, i, j;
+
+	  cout << "Input jumlah baris matriks: ";
+	  cin >> y;
+
+	  cout << "Input jumlah kolom matriks: ";
+	  cin >> x;
+	  cout << endl;
+
+	  for(i = 0; i < y ; i++){
+	    for(j = 0; j < x; j++){
+	      cout << "Baris " <<i+1<<", kolom "<<j+1<< " = ";
+	      cin >> matr[i][j];
+	    }
+	    cout << endl;
+	  }
 
 	cout<<"Nilai Dibagi 3"<<endl;
 	
@@ -144,8 +144,8 @@ int main()
 	
 	 } 
 	 cout<<endl;
-  return 0;
-}
+	  return 0;
+	}
 
 ## Output
 [1]Menghasilkan kolom dan baris dengan bilangan yang di inputkan yang dimana kolom dan baris tersebut menggunakan matriks 2 dimensi 
