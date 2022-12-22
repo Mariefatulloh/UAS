@@ -148,5 +148,8 @@ Tugas [2]
 	}
 
 ## Output
-[1]Menghasilkan kolom dan baris dengan bilangan yang di inputkan yang dimana kolom dan baris tersebut menggunakan matriks 2 dimensi 
-[2]Mencari nilai angka yang di input lalu dibagi habis dengan bilangan prima(3,5,7) yang nanti akan ditampilkan di output
+[1]![Screenshot_20221222_154520](https://user-images.githubusercontent.com/119512148/209095212-9c5fcb8f-dcea-4802-9b8a-0c8512865aa0.png)
+
+
+[2]![Screenshot_20221222_154703](https://user-images.githubusercontent.com/119512148/209095499-a9f37a71-bdef-4b16-8977-d26895a1acc2.png)
+
